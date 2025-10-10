@@ -1,4 +1,3 @@
-# Simple Plain Html Academic Personal Page
-
-Uses jQuery and Bootstrap CSS.
-[Here](https://junweiliang.github.io/) is my actively maintained page.
+## Credits
+This site was forked from [https://junweiliang.github.io/](https://junweiliang.github.io/).
+All credits to the original author(s).
